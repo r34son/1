@@ -1,0 +1,1 @@
+{"version":3,"sources":["Facts.css","App.css"],"names":[],"mappings":"AAAA,OACI,YAAa,CACb,cACJ,CAEA,MACI,SACJ,CCPA,KACE,QAAS,CACT,SACF","file":"main.24d9d0e9.chunk.css","sourcesContent":[".facts {\r\n    display: flex;\r\n    flex-wrap: wrap;\r\n}\r\n\r\n.fact {\r\n    width: 50%;\r\n}","body {\n  margin: 0;\n  padding: 0;\n}"]}
